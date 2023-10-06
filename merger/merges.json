@@ -1,0 +1,50 @@
+[
+    {
+        "short": "2lr",
+        "name": "Left/Right",
+        "image": "two-lr.png",
+        "amount": 2
+    },
+    {
+        "short": "2inside",
+        "name": "Two Inside",
+        "image": "two-inside.png",
+        "amount": 2
+    },
+    {
+        "short": "3tmb",
+        "name": "Three Stacked",
+        "image": "three-tmb.png",
+        "amount": 3
+    },
+    {
+        "short": "4lbltrbrt",
+        "name": "Four Corners",
+        "image": "four-lbltrbrt.png",
+        "amount": 4
+    },
+    {
+        "short": "2fb",
+        "name": "Front/Back",
+        "image": "two-fb.png",
+        "amount": 2
+    },
+    {
+        "short": "6p",
+        "name": "All Parts",
+        "image": "six-parts.png",
+        "amount": 6
+    },
+    {
+        "short": "2oi",
+        "name": "Skin/Overlay",
+        "image": "two-oi.png",
+        "amount": 2
+    },
+    {
+        "short": "2tb",
+        "name": "Top/Bottom",
+        "image": "two-tb.png",
+        "amount": 2
+    }
+]
